@@ -1,5 +1,5 @@
 PODS:
-  - HFSwipeView (1.2.0):
+  - HFSwipeView (2.0.1):
     - PureLayout
     - TinyLog
   - PureLayout (3.0.2)
@@ -15,10 +15,10 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  HFSwipeView: 1e3185d530983ed61c81d54322e5f25609df1e48
+  HFSwipeView: cd7caae3f3dfdf2e69c420763061d1ffeff0a7bf
   PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
   TinyLog: 6c3ecbc348d10dc242ebb506f684fc9ae6aff533
 
 PODFILE CHECKSUM: 2d413bcaa4b693917f61e1405f6097f73b0ea261
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.4.0
